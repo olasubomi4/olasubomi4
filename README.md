@@ -7,6 +7,8 @@
 </p>
 
 ---
+### 🧠 Currently Working On
+- Reinforcement Learning for Dynamic Pathfinding in Autonomous Last-Mile Delivery.
 
 ### 🚀 About Me
 
@@ -40,14 +42,6 @@ Graph-based tweet and follower recommendation engine
 - Modeled user interactions with Neo4j  
 - Applied PageRank, Betweenness Centrality, Label Propagation  
 - Deployed REST API with Flask for real-time recommendations
-
----
-
-### 🧠 Currently Working On
-
-- 💼 Building microservices with Kafka and AWS  
-- 📊 Applying graph algorithms for recommendation systems  
-- 🤖 Researching advanced ML/AI methods in real-world applications
 
 ---
 
