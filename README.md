@@ -1,50 +1,68 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Odekunle Olasubomi</h1>
-<h3 align="center">A passionate Software Engineer from Dublin, Ireland</h3>
-
-- 🔭 I’m currently working on **Kafka-based microservices and distributed systems**
-
-- 🌱 I’m currently learning **advanced cloud architecture and machine learning integration**
-
-- 👯 I’m looking to collaborate on **open-source projects related to Java and Kafka**
-
-- 💬 Ask me about **Java, Kafka, Linux, and AWS**
-
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/olasubomi-odekunle-582844110/)**
-
-- ⚡ Fun fact **I enjoy exploring the intersection of technology and music**
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</p>
-
----
-
-### 📈 GitHub Stats:
+<h3 align="center">Software Engineer | MSc Artificial Intelligence | Kafka & Java Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olasubomi4&show_icons=true&theme=radical" alt="olasubomi4's GitHub stats" />
+  <a href="https://github.com/olasubomi4"><img src="https://img.shields.io/github/followers/olasubomi4?label=GitHub&style=social" /></a>
+  <a href="https://www.linkedin.com/in/olasubomi-odekunle-582844110/"><img src="https://img.shields.io/badge/LinkedIn-olasubomiodekunle-blue?style=flat-square&logo=linkedin" /></a>
 </p>
 
 ---
 
-### 📫 Connect with me:
+### 🚀 About Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/olasubomi-odekunle-582844110/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="mailto:your.email@example.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="30" />
-  </a>
+I'm a dedicated Software Engineer currently pursuing a Master's in Artificial Intelligence at Dublin Business School (Expected Distinction, 2025). I previously worked at **Flutterwave**, a fintech unicorn, where I built real-time scalable services and led critical system migrations.
+
+My passion lies in building **robust distributed systems**, **AI-powered applications**, and **graph-based recommendations**.
+
+---
+
+### 🔧 Tech Stack & Tools
+
+- **Languages**: Java, Python, C#, JavaScript  
+- **Frameworks**: Spring Boot, Flask  
+- **Cloud & DevOps**: AWS (Lambda, EC2, SQS, SNS), Docker, Kubernetes, Jenkins  
+- **Data & Monitoring**: Kafka, Elasticsearch, Neo4j, MySQL, Kibana, Datadog  
+- **AI/ML**: TensorFlow, OpenAI Gym, MLflow  
+- **Practices**: Microservices, Test-Driven Development, Git, Agile
+
+---
+
+### 📈 Key Projects
+
+#### 🔹 [Dynamic Pricing System](https://github.com/somtee99/dynamic_pricing)
+Reinforcement learning-based retail price optimizer  
+- Built a TD3-based agent using a custom OpenAI Gym environment  
+- Boosted simulated annual revenue from €167,000 to €280,000  
+- Led a 4-person team; compared performance with Q-learning baseline
+
+#### 🔹 [Twitter Engagement Recommender](https://github.com/olasubomi4/neo4jTwitter)
+Graph-based tweet and follower recommendation engine  
+- Modeled user interactions with Neo4j  
+- Applied PageRank, Betweenness Centrality, Label Propagation  
+- Deployed REST API with Flask for real-time recommendations
+
+---
+
+### 🧠 Currently Working On
+
+- 💼 Building microservices with Kafka and AWS  
+- 📊 Applying graph algorithms for recommendation systems  
+- 🤖 Researching advanced ML/AI methods in real-world applications
+
+---
+
+### 📫 Connect with Me
+
+- Email: olasubomiodekunle@gmail.com  
+- LinkedIn: [olasubomiodekunle](https://www.linkedin.com/in/olasubomi-odekunle-582844110/)  
+- GitHub: [github.com/olasubomi4](https://github.com/olasubomi4)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=olasubomi4&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olasubomi4&layout=compact&theme=tokyonight" />
 </p>
