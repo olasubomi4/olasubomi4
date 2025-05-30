@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://github.com/olasubomi4"><img src="https://img.shields.io/github/followers/olasubomi4?label=GitHub&style=social" /></a>
   <a href="https://www.linkedin.com/in/olasubomi-odekunle-582844110/"><img src="https://img.shields.io/badge/LinkedIn-olasubomiodekunle-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://leetcode.com/u/olasubomi1/"><img src="https://img.shields.io/badge/LeetCode-olasubomi1-orange?style=flat-square&logo=leetcode" /></a>
 </p>
 
 ---
