@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Odekunle Olasubomi</h1>
+<h1 align="center">Hi, I am Odekunle Olasubomi</h1>
 <h3 align="center">Software Engineer | MSc Artificial Intelligence | Kafka & Java Enthusiast</h3>
 
 <p align="center">
@@ -8,11 +8,11 @@
 </p>
 
 ---
-### 🧠 Currently Working On
+### Currently Working On
 <a href="https://github.com/olasubomi4/Autonomous_last_mile_delivery_DRL"> Reinforcement Learning for Dynamic Pathfinding in Autonomous Last-Mile Delivery.</a>
   
 
-### 🚀 About Me
+###  About Me
 
 I'm a dedicated Software Engineer currently pursuing a Master's in Artificial Intelligence at Dublin Business School (Expected Distinction, 2025). I previously worked at **Flutterwave**, a fintech unicorn, where I built real-time scalable services and led critical system migrations.
 
@@ -20,7 +20,7 @@ My passion lies in building **robust distributed systems**, **AI-powered applica
 
 ---
 
-### 🔧 Tech Stack & Tools
+###  Tech Stack & Tools
 
 - **Languages**: Java, Python, C#, JavaScript  
 - **Frameworks**: Spring Boot, Flask  
@@ -31,23 +31,31 @@ My passion lies in building **robust distributed systems**, **AI-powered applica
 
 ---
 
-### 📈 Key Projects
+###  Key Projects
 
-#### 🔹 [Dynamic Pricing System](https://github.com/somtee99/dynamic_pricing)
+####  [Dynamic Pricing System](https://github.com/somtee99/dynamic_pricing)
 Reinforcement learning-based retail price optimizer  
 - Built a TD3-based agent using a custom OpenAI Gym environment  
 - Boosted simulated annual revenue from €167,000 to €280,000  
 - Led a 4-person team; compared performance with Q-learning baseline
 
-#### 🔹 [Twitter Engagement Recommender](https://github.com/olasubomi4/neo4jTwitter)
+####  [ClassRep Ai](https://github.com/olasubomi4/StudentGenAIChatBot)
+Chatbot acting as a virtual class rep, handling class-related queries.
+- Led a team to develop ClassRep AI, an LLM chatbot aiding DBS AI lecturers via natural language queries.
+- Built an interactive Streamlit interface integrating LangChain, Neo4j, and DeepSeek Coder using LLM Studio API.
+- Used GraphCypherQAChain to convert user input to Cypher queries for dynamic responses from a Neo4j graph.
+- Deployed a local, API-driven solution combining LLMs and graph databases for seamless conversational AI.
+
+####  [Twitter Engagement Recommender](https://github.com/olasubomi4/neo4jTwitter)
 Graph-based tweet and follower recommendation engine  
 - Modeled user interactions with Neo4j  
 - Applied PageRank, Betweenness Centrality, Label Propagation  
 - Deployed REST API with Flask for real-time recommendations
 
+
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
 - Email: olasubomiodekunle@gmail.com  
 - LinkedIn: [olasubomiodekunle](https://www.linkedin.com/in/olasubomi-odekunle-582844110/)  
@@ -55,7 +63,7 @@ Graph-based tweet and follower recommendation engine
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=olasubomi4&show_icons=true&theme=tokyonight" />
