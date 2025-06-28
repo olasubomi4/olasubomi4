@@ -10,6 +10,7 @@
 ---
 ### Currently Working On
 <a href="https://github.com/olasubomi4/Autonomous_last_mile_delivery_DRL"> Reinforcement Learning for Dynamic Pathfinding in Autonomous Last-Mile Delivery.</a>
+This research explores the application of deep reinforcement learning (DRL) for dynamic pathfinding in autonomous last-mile delivery systems. Traditional routing algorithms like A* and Dijkstra’s are limited in their ability to adapt to real-time environmental changes. DRL offers a promising solution by enabling autonomous agents to learn optimal navigation policies through interaction with a dynamic environment. This study aims to design, implement, and evaluate a DRL-based system in a simulated environment to test its ability to adapt to obstacles, optimize delivery routes, and ensure safety and efficiency.
   
 
 ###  About Me
